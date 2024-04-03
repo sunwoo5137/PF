@@ -90,4 +90,7 @@
     iframe{
         width: 96%;
     }
+    .thanks{
+        display: none;
+    }
 }

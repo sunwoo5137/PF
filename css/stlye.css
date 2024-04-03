@@ -195,7 +195,7 @@ span{
     margin: 0 auto;
     /* margin-top: 200px; */
     box-shadow: 5px 5px 50px white;
-    /* border-radius: 30px; */
+    border-radius: 20px;
 }
 .topwrap{
     width: 100%;
